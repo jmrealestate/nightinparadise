@@ -1,0 +1,1 @@
+var e={appName:"Night In Paradise",mainPageTitle:"Managed by JM Real Estate",appLogoUrl:"./assets/nip/JM - P - BW - PNG.png",mainPageLogoUrl:"./assets/nip/night-in-paradise.png",API_HOST:"https://main-server-u49f.onrender.com/api/v1/bms/nip/",foldersToKeep:["assets/images","assets/nip"]};export{e as a};
